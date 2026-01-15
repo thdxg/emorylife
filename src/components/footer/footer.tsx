@@ -71,7 +71,7 @@ const Footer = () => {
                 © EmoryLife {new Date().getFullYear()}. All rights reserved.
               </p>
 
-              <Link href="https://github.com/ethn1ee/gaga">
+              <Link href="https://github.com/thdxg/emorylife">
                 <Button size="icon">
                   <IconBrandGithub />
                 </Button>

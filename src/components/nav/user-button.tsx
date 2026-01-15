@@ -95,7 +95,7 @@ const UserButton = () => {
                 {t("website.items.request-features")}
               </DropdownMenuItem>
             </Link> */}
-            <Link href="https://github.com/ethn1ee/emorylife">
+            <Link href="https://github.com/thdxg/emorylife">
               <DropdownMenuItem>
                 <IconBrandGithub />
                 {t("website.items.visit-github")}
